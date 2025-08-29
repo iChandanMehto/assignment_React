@@ -1,0 +1,15 @@
+.app-container {
+  max-width: 600px;
+  margin: 2rem auto; 
+  padding: 1.5rem;
+  background: #f6f9ff;
+  color: black;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(70, 130, 180, 0.1);
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #0b3870;
+}
